@@ -15,14 +15,6 @@ Thumbs.db
 # Raw and processed data
 data/processed/
 
-# Local databases
-*.db
-*.sqlite
-*.sqlite3
-
-# Excel datasets
-*.xlsx
-*.xls
 
 # Environment variables
 .env
@@ -32,3 +24,8 @@ notebooks/tests.ipynb
 
 # Private interview preparation
 /personal/
+
+# Include approved Harbourline raw case-study data
+!data/raw/
+!data/raw/Harbourline_Credit_Risk_Dataset.xlsx
+!data/raw/harbourline_credit.db
