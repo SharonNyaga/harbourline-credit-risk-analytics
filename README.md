@@ -31,21 +31,17 @@ controlled pilot, not a proven optimum.
 
 ## Dashboard
 
-### Executive summary
+### Executive Summary
 
-![Executive summary dashboard: policy approval rates, PD distribution,
-estimated expected loss and
-recommendation]("C:/Users/Administrator/Desktop/harborline_credit_risk/outputs/executive%20summary.png")
+![Executive Summary Dashboard](outputs/executive%20summary.png)
 
-### Portfolio and segment analysis
+### Portfolio and Segment Analysis
 
-![Approval-rate comparisons by employment type, region and application
-channel]("C:/Users/Administrator/Desktop/harborline_credit_risk/outputs/portfolio_segment%20analysis.png")
+![Portfolio and Segment Analysis](outputs/portfolio_segment_analysis.png)
 
-### Model performance and risk
+### Model Performance and Risk
 
-![Calibration by PD band, AUC benchmark, historical versus Q1 2025 mean
-predicted PD, and key findings]("C:/Users/Administrator/Desktop/harborline_credit_risk/outputs/model_performance_risk.png")
+![Model Performance and Risk](outputs/model_performance_risk.png)
 
 ## Data and preparation
 
