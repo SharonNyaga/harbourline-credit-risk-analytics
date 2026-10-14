@@ -37,7 +37,7 @@ controlled pilot, not a proven optimum.
 
 ### Portfolio and Segment Analysis
 
-![Portfolio and Segment Analysis](outputs/portfolio_segment_analysis.png)
+![Portfolio and Segment Analysis](outputs/portfolio_segment%20analysis.png)
 
 ### Model Performance and Risk
 
