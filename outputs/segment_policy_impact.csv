@@ -1,0 +1,13 @@
+segment_type,segment,applicants,current_approval_rate_pct,pd15_approval_rate_pct,approval_rate_change_pp
+Employment type,Contract,444,93.24,61.49,-31.76
+Employment type,Informal,305,94.1,48.52,-45.57
+Employment type,Salaried,1662,93.68,73.53,-20.16
+Employment type,Self-employed,589,93.89,61.97,-31.92
+Application channel,Branch,879,93.63,70.31,-23.32
+Application channel,Broker,563,93.43,61.63,-31.79
+Application channel,Online,1558,93.84,66.94,-26.89
+Region,Coastal,581,93.98,70.57,-23.41
+Region,Inland,543,95.4,62.06,-33.33
+Region,Metro North,721,92.23,64.49,-27.74
+Region,Metro South,779,93.45,68.55,-24.9
+Region,Rural,376,94.15,69.68,-24.47

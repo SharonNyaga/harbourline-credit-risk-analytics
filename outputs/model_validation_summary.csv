@@ -1,0 +1,6 @@
+metric,value,interpretation
+Validation ROC-AUC,0.8016,Risk-ranking discrimination
+Validation Gini,0.6032,Discrimination measure derived from ROC-AUC
+Validation Brier score,0.0751,Mean squared probability prediction error; lower is better
+Mean predicted PD (%),9.2158,Average predicted default probability
+Observed default rate (%),9.7193,Actual validation default frequency

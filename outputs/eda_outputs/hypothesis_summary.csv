@@ -1,0 +1,11 @@
+,factor,key_finding,model_note
+0,Bureau score,Default rate falls as score increases,Strong candidate predictor
+1,Credit utilisation,Default rate rises across utilisation bands,Strong candidate predictor
+2,Delinquencies (2 years),Default rates generally rise with delinquency count,Strong candidate predictor; high counts are sparse
+3,Debt-to-income,Default rate rises from 6.72% to 14.28%,Candidate predictor
+4,Employment type,Informal employment has the highest observed rate,Candidate predictor
+5,Channel,Broker channel has the highest observed rate,Candidate predictor; investigate channel effects
+6,Loan purpose,Rates range from 8.08% to 10.40%,Supplementary candidate predictor
+7,Loan term,36-month loans have the highest observed rate,Candidate predictor
+8,Region,Rates range from 8.79% to 9.98%,Test incremental value and fairness
+9,Interest rate,Rates rise from 0.82% to 29.50% across bands,Exclude provisionally until timing is verified

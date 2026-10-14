@@ -1,0 +1,6 @@
+pd_band,applicants,observed_defaults,mean_predicted_pd_pct,observed_default_rate_pct,calibration_gap_pp
+0–5%,1975,56,2.14,2.84,-0.69
+5–10%,745,49,7.06,6.58,0.48
+10–15%,385,50,12.22,12.99,-0.77
+15–20%,250,39,17.25,15.6,1.65
+>20%,493,180,34.39,36.51,-2.13

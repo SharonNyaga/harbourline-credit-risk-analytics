@@ -1,0 +1,5 @@
+policy,approved_applications,total_lending,total_expected_loss,expected_loss_pct_of_lending,average_expected_loss_per_approved,approval_rate_pct,expected_loss_reduction,expected_loss_reduction_pct
+Current rule: Bureau score >= 540,2811,25703000.0,1266742.15,4.93,450.64,93.7,0.0,0.0
+Bureau >= 540 and PD <= 10%,1661,15342200.0,248995.42,1.62,149.91,55.37,1017746.73,80.34
+Bureau >= 540 and PD <= 15%,2008,18540700.0,409083.43,2.21,203.73,66.93,857658.72,67.71
+Bureau >= 540 and PD <= 20%,2210,20380300.0,538913.37,2.64,243.85,73.67,727828.78,57.46
